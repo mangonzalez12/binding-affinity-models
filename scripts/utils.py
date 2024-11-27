@@ -8,3 +8,6 @@ def load_data(filepath):
     """
 
     return pd.read_parquet(filepath)
+
+
+
